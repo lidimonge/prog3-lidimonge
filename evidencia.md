@@ -1,14 +1,8 @@
-﻿# Evidencia de entorno · Lidiana Monge Araya
+# Evidencia de entorno · Lidiana Monge Araya
 
 ## java -version
 ```
-java : openjdk version "25.0.4.1" 2026-08-18 LTS
-En línea: 1 Carácter: 12
-+ $java   = (java -version 2>&1 | Out-String).Trim()
-+            ~~~~~~~~~~~~~~~~~~
-    + CategoryInfo          : NotSpecified: (openjdk version... 2026-08-18 LTS:String) [], RemoteException
-    + FullyQualifiedErrorId : NativeCommandError
- 
+openjdk version "25.0.4.1" 2026-08-18 LTS
 OpenJDK Runtime Environment Temurin-25.0.4.1+1 (build 25.0.4.1+1-LTS)
 OpenJDK 64-Bit Server VM Temurin-25.0.4.1+1 (build 25.0.4.1+1-LTS, mixed mode, sharing)
 ```
@@ -84,7 +78,7 @@ For more examples and ideas, visit:
 [INFO]  T E S T S
 [INFO] -------------------------------------------------------
 [INFO] Running uam.prog3.AppTest
-[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.055 s -- in uam.prog3.AppTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.048 s -- in uam.prog3.AppTest
 [INFO] 
 [INFO] Results:
 [INFO] 
@@ -96,8 +90,8 @@ For more examples and ideas, visit:
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  3.489 s
-[INFO] Finished at: 2026-09-18T21:53:42-06:00
+[INFO] Total time:  3.426 s
+[INFO] Finished at: 2026-09-18T22:18:05-06:00
 [INFO] ------------------------------------------------------------------------
 
 Hello World!
